@@ -29,9 +29,6 @@ O projeto utiliza um banco de dados **Oracle** para armazenar informações de c
    - Clique em "Configurações Avançadas do Sistema" > "Variáveis de Ambiente".
    - Na seção "Variáveis de Sistema", encontre a variável `PATH` e clique em "Editar".
    - Adicione o caminho completo do diretório onde o Oracle Instant Client foi extraído (exemplo: `C:\oracle\instantclient_21_3`).
-4. Instale as dependências do projeto, incluindo o `cx_Oracle`, utilizando o comando:
-   ```bash
-   pip install -r requirements.txt
 
 ### macOS
 
@@ -41,6 +38,9 @@ O projeto utiliza um banco de dados **Oracle** para armazenar informações de c
    ```bash
    export DYLD_LIBRARY_PATH=/Users/seu_usuario/Downloads/instantclient_19_8:$DYLD_LIBRARY_PATH
 
+4. Instale as dependências do projeto, incluindo o `cx_Oracle`, utilizando o comando:
+   ```bash
+   pip install -r requirements.txt
 
 ### Fluxo de Trabalho
 

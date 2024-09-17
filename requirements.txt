@@ -1,0 +1,8 @@
+cx_Oracle
+pandas
+scikit-learn
+numpy
+openai
+python-dotenv
+openpyxl
+joblib

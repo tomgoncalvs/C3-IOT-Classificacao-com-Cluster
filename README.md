@@ -4,6 +4,13 @@
 
 Este projeto classifica usuários com base em seu comportamento de compra utilizando técnicas de Inteligência Artificial. O objetivo é agrupar usuários em clusters e gerar campanhas de marketing personalizadas para cada grupo, melhorando a segmentação e eficácia das estratégias de marketing.
 
+# Integrantes do Grupo
+- Beatriz Lucas - RM99104
+- Enzo Farias - RM 98792
+- Ewerton Gonçalves - RM98571
+- Guilherme Tantulli - RM97890
+- Thiago Zupelli - RM99085
+
 ## Estrutura do Projeto
 
 - **data_processing.py**: Processa e organiza os dados das compras dos usuários.

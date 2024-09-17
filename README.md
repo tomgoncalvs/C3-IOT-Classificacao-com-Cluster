@@ -11,6 +11,9 @@ Este projeto classifica usuários com base em seu comportamento de compra utiliz
 - Guilherme Tantulli - RM97890
 - Thiago Zupelli - RM99085
 
+# Vídeo da Execução (10m)
+- [Execução Youtube](https://www.youtube.com/watch?v=jWPxPyv_M1A "Execução Youtube")
+
 ## Estrutura do Projeto
 
 - **data_processing.py**: Processa e organiza os dados das compras dos usuários.
